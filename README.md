@@ -23,6 +23,9 @@ se empleará en el contexto de la vida diaria de mujeres y . Las usuarias podrá
 
 ## links  de los diagramas
 
+## Diagrama de casos de uso
+
+file:///C:/Users/sandra/Downloads/Brown%20Pastel%20Organic%20Boho%20Project%20Scheme%20Concept%20Mind%20Map%20Graph.pdf
 
 ## Diagrama de objetos:
 
