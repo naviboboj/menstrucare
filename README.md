@@ -31,6 +31,10 @@ file:///C:/Users/sandra/Downloads/Brown%20Pastel%20Organic%20Boho%20Project%20Sc
 
 file:///C:/Users/sandra/Downloads/Gr%C3%A1fico%20de%20Mapa%20Conceptual%20o%20Mental%20Investigaci%C3%B3n%20Proyecto%20Doodle%20A%20Mano%20Multicolor.pdf
 
+## Diagrama de estados
+
+file:///C:/Users/sandra/Downloads/Beige%20Naranja%20Pastel%20P%C3%BArpura%20Pastel%20Gradientes%20Profesionales%20Tesis%20De%20Universidad%20Presentaci%C3%B3n%20Educativa.pdf
+
 
 
 ## Integrantes:
