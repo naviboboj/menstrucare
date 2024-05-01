@@ -39,6 +39,9 @@ file:///C:/Users/sandra/Downloads/Beige%20Naranja%20Pastel%20P%C3%BArpura%20Past
 
 file:///C:/Users/sandra/Downloads/Negro%20Violeta%20Pastel%20Naranja%20Degradado%20C%C3%B3smico%20a%20la%20Moda%20Presentaci%C3%B3n%20Creativa.pdf
 
+## Diagrama de despliegue
+
+file:///C:/Users/sandra/Downloads/Negro%20Violeta%20Pastel%20Naranja%20Degradado%20C%C3%B3smico%20a%20la%20Moda%20Presentaci%C3%B3n%20Creativa%20(1).pdf
 
 ## Integrantes:
 
