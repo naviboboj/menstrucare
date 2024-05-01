@@ -24,7 +24,7 @@ se empleará en el contexto de la vida diaria de mujeres y personas que menstrú
 ## links  de los diagramas
 
 ## Diagrama de objetos:
-file:///C:/Users/sandra/Downloads/Gr%C3%A1fico%20de%20Mapa%20Conceptual%20o%20Mental%20Investigaci%C3%B3n%20Proyecto%20Doodle%20A%20Mano%20Multicolor.pdf
+
 
 
 
