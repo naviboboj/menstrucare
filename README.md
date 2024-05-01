@@ -13,7 +13,7 @@ La necesidad planteada es brindar a mujeres y personas que menstrúan una soluci
 
 ## ¿Quiénes van a manejar el producto final? (Usuarios con respectivas funciones y posibilidades):
 
-El producto final, Menstrucare, está dirigido a mujeres y personas que menstrúan. A diferencia de otras aplicaciones disponibles en el mercado, "Menstrucare" ha sido diseñado específicamente para satisfacer sus necesidades únicas. Al ser desarrollado por un equipo conformado por mujeres, se ha tenido en cuenta la experiencia personal y las particularidades de la menstruación. Es una aplicación completa y diseñada por mujeres. Sus características específicas hacen que sea una herramienta altamente beneficiosa y confiable para el seguimiento y gestión del ciclo menstrual.
+El producto final, Menstrucare, está dirigido a mujeres. A diferencia de otras aplicaciones disponibles en el mercado, "Menstrucare" ha sido diseñado específicamente para satisfacer sus necesidades únicas. Al ser desarrollado por un equipo conformado por mujeres, se ha tenido en cuenta la experiencia personal y las particularidades de la menstruación. Es una aplicación completa y diseñada por mujeres. Sus características específicas hacen que sea una herramienta altamente beneficiosa y confiable para el seguimiento y gestión del ciclo menstrual.
 
 
 
