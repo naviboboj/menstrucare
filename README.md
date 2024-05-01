@@ -35,6 +35,9 @@ file:///C:/Users/sandra/Downloads/Gr%C3%A1fico%20de%20Mapa%20Conceptual%20o%20Me
 
 file:///C:/Users/sandra/Downloads/Beige%20Naranja%20Pastel%20P%C3%BArpura%20Pastel%20Gradientes%20Profesionales%20Tesis%20De%20Universidad%20Presentaci%C3%B3n%20Educativa.pdf
 
+## Diagrama de paquetes 
+
+file:///C:/Users/sandra/Downloads/Negro%20Violeta%20Pastel%20Naranja%20Degradado%20C%C3%B3smico%20a%20la%20Moda%20Presentaci%C3%B3n%20Creativa.pdf
 
 
 ## Integrantes:
