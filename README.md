@@ -47,5 +47,6 @@ file:///C:/Users/sandra/Downloads/Negro%20Violeta%20Pastel%20Naranja%20Degradado
 
 Sara Martinez Muñoz.
 Valeria Foronda Cardona.
+juan eteban valencia.
 
 
